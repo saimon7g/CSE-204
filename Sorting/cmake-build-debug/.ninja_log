@@ -1,0 +1,6 @@
+# ninja log v5
+10	1905	6653958777171147	CMakeFiles/Sorting.dir/main.cpp.obj	578afdfec5700b88
+1356	1764	6651108484363858	Sorting.exe	2d072c19a1ba500b
+79	486	6653958762912519	CMakeFiles/Sorting.dir/Test/fghjk.cpp.obj	ce7b4de5ea7013ba
+14	1613	6656680379613595	CMakeFiles/Sorting.dir/Test/test.cpp.obj	3fb6e6d612c87ea5
+48	1631	6656680379813624	CMakeFiles/Sorting.dir/greedy/main.cpp.obj	bff5668b668a89f6
